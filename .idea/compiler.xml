@@ -8,7 +8,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="micro-service-cloud-consumer-dept-80" />
+        <module name="micro-service-cloud-consumer-dept-feign" />
         <module name="micro-service-cloud-eureka-7001" />
+        <module name="micro-service-cloud-provider-dept-hystrix-8004" />
         <module name="micro-service-cloud-api" />
         <module name="micro-service-cloud-provider-dept-8001" />
       </profile>
