@@ -21,6 +21,8 @@ public class Dept_ConsumControllre {
     // 是 Spring 提供的用于访问 Rest 服务的客户端模板工具集，提供了多种便捷访问远程 HTTP 服务的方法
     @Autowired
     RestTemplate restTemplate;
+
+
     @RequestMapping("/getAll")
     public List<Dept> getAll(){
         return restTemplate.getForObject(REST_URL_PROVIDER_PREFIX+"/getAll",List.class);}

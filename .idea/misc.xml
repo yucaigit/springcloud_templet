@@ -10,6 +10,9 @@
         <option value="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/pom.xml" />
         <option value="$PROJECT_DIR$/micro-service-cloud-consumer-dept-feign/pom.xml" />
         <option value="$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8004/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-providerconsul-payment8006/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consumerconsul-order80/pom.xml" />
+        <option value="$PROJECT_DIR$/mico-service-cloud-eureka-7002/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

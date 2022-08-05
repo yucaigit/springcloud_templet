@@ -1,0 +1,16 @@
+server:
+  port: 80
+spring:
+  application:
+    name: cloudServerConsume
+
+
+  #注册中心的地址
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        service-name: ${spring.application.name}
+        heartbeat:
+          enabled: true

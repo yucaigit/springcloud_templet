@@ -5,11 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9cd1e69-f176-4a3f-ad54-075e0bd5974d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/lyzd/consume/controller/ConsulServerConsume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/lyzd/ob/controller/ConsulApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/resources/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mico-service-cloud-eureka-7002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-feign/src/main/java/com/lyzd/fegin/controller/FeignController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8004/src/main/java/com/lyzd/hystrix/service/DeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8004/src/main/java/com/lyzd/hystrix/service/impl/DeptServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/src/main/java/com/lyzd/consum/config/ConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/src/main/java/com/lyzd/consum/config/ConfigBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/src/main/java/com/lyzd/consum/controller/Dept_ConsumControllre.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/src/main/java/com/lyzd/consum/controller/Dept_ConsumControllre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-feign/src/main/java/com/lyzd/fegin/FeginApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-feign/src/main/java/com/lyzd/fegin/FeginApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-feign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-feign/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-cloud-eureka-7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-eureka-7001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-cloud-provider-dept-8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-provider-dept-8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8004/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8004/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8004/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8004/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +43,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="2Cbb4TobdBISvL1Be165nqJXGOY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,7 +84,18 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConsumApplication">
+  <component name="RunManager" selected="Spring Boot.FeginApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="micro-service-cloud-provider-dept-8001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.client.ClientApplication" />
@@ -74,6 +110,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConsumeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerconsul-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.consume.ConsumeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mico-service-cloud-eureka-7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.eur.EurApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FeginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="micro-service-cloud-consumer-dept-feign" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.fegin.FeginApplication" />
@@ -84,6 +134,13 @@
     <configuration name="HystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="micro-service-cloud-provider-dept-hystrix-8004" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.hystrix.HystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-providerconsul-payment8006" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.ob.ObApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,6 +167,10 @@
       <workItem from="1659238108864" duration="1837000" />
       <workItem from="1659314250646" duration="1718000" />
       <workItem from="1659318576138" duration="22000" />
+      <workItem from="1659323369559" duration="594000" />
+      <workItem from="1659448071075" duration="257000" />
+      <workItem from="1659573266104" duration="9448000" />
+      <workItem from="1659669461249" duration="1323000" />
     </task>
     <servers />
   </component>
