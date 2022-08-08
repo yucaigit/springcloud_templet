@@ -5,28 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9cd1e69-f176-4a3f-ad54-075e0bd5974d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/lyzd/consume/controller/ConsulServerConsume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/java/com/lyzd/ob/controller/ConsulApplicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-providerconsul-payment8006/src/main/resources/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mico-service-cloud-eureka-7002/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-feign/src/main/java/com/lyzd/fegin/controller/FeignController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8004/src/main/java/com/lyzd/hystrix/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8004/src/main/java/com/lyzd/hystrix/service/impl/DeptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-cloud-config-client-3322/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/micro-service-cloud-config-client-3355/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/src/main/java/com/lyzd/consum/config/ConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/src/main/java/com/lyzd/consum/config/ConfigBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/src/main/java/com/lyzd/consum/controller/Dept_ConsumControllre.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/src/main/java/com/lyzd/consum/controller/Dept_ConsumControllre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-feign/src/main/java/com/lyzd/fegin/FeginApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-feign/src/main/java/com/lyzd/fegin/FeginApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-feign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-feign/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-cloud-eureka-7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-eureka-7001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-cloud-provider-dept-8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-provider-dept-8001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8004/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8004/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8004/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8004/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/src/test/java/com/lyzd/consum/ConsumApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/src/test/java/com/lyzd/consum/ConsumApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -79,19 +66,37 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager" selected="Spring Boot.FeginApplication">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="Spring Boot.ConfigclientApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="micro-service-cloud-consumer-dept-80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lyzd.consum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lyzd.consum" />
+      <option name="MAIN_CLASS_NAME" value="com.lyzd.consum.ConsumApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,6 +104,20 @@
     <configuration name="ClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="micro-service-cloud-provider-dept-8001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.client.ClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-cloud-config-center-3344" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.cloud_config.CloudConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigclientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-cloud-config-client-3355" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzyd.configclient.ConfigclientApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,6 +136,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-cloud-config-client-3322" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-cloud-gateway-9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.getweay.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="mico-service-cloud-eureka-7002" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.eur.EurApplication" />
@@ -127,6 +160,13 @@
     <configuration name="FeginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="micro-service-cloud-consumer-dept-feign" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.fegin.FeginApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetwayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-cloud-gateway-9527" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lyzd.getway.GetwayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -152,6 +192,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConsumApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -171,6 +216,11 @@
       <workItem from="1659448071075" duration="257000" />
       <workItem from="1659573266104" duration="9448000" />
       <workItem from="1659669461249" duration="1323000" />
+      <workItem from="1659838774533" duration="2090000" />
+      <workItem from="1659852401441" duration="8704000" />
+      <workItem from="1659865813124" duration="1053000" />
+      <workItem from="1659866977048" duration="2311000" />
+      <workItem from="1659917310499" duration="9904000" />
     </task>
     <servers />
   </component>
@@ -188,5 +238,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

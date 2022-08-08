@@ -1,14 +1,13 @@
-package com.lyzd.consum;
+package com.lzyd.configclient;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConsumApplicationTests {
+class ConfigclientApplicationTests {
 
     @Test
     void contextLoads() {
-
     }
 
 }

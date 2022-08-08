@@ -11,15 +11,20 @@
         <module name="micro-service-cloud-eureka-7001" />
         <module name="micro-service-cloud-provider-dept-hystrix-8004" />
         <module name="micro-service-cloud-provider-dept-8001" />
+        <module name="micro-service-cloud-config-center-3344" />
         <module name="micro-service-cloud-consumer-dept-80" />
         <module name="micro-service-cloud-consumer-dept-feign" />
+        <module name="cloud-consumerconsul-order80" />
+        <module name="micro-service-cloud-gateway-9527" />
+        <module name="micro-service-cloud-config-client-3355" />
+        <module name="micro-service-cloud-config-client-3322" />
         <module name="micro-service-cloud-api" />
         <module name="mico-service-cloud-eureka-7002" />
-        <module name="cloud-consumerconsul-order80" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud_api" target="8" />
+      <module name="demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

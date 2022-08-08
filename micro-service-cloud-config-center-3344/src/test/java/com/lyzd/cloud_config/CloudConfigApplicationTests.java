@@ -1,14 +1,13 @@
-package com.lyzd.consum;
+package com.lyzd.cloud_config;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConsumApplicationTests {
+class CloudConfigApplicationTests {
 
     @Test
     void contextLoads() {
-
     }
 
 }
